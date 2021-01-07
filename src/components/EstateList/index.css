@@ -1,0 +1,16 @@
+.loading {
+    font-size: 50px;
+    color: red;
+    font-weight: 700;
+}
+
+.estate-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card__price {
+    margin-top: 20px;
+}

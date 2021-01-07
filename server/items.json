@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "7c3d0cbb-2483-4fcd-8374-630337f727b4",
+      "title": "Apartment 1",
+      "address": "340 Walt Whitman St.New York, NY 10024",
+      "price": "154,000",
+      "url": "http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/BBYASDPNPO_21662_XML-4175-208410.jpg"
+    },
+    {
+      "id": "6b27bb03-51ba-430e-ad29-d87f2b41392a",
+      "title": "Apartment 2",
+      "address": "95 Buckingham Road Elmont, NY 11003",
+      "price": "40,000",
+      "url": "http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/PBMGJINUTN_15027_XML-4185-208590.jpg"
+    },
+    {
+      "id": "f3a926a5-1956-42a7-8b33-fb9859435c16",
+      "title": "Apartment 3",
+      "address": "7423 Cactus Dr.\nBronx, NY 10462",
+      "price": "165,000",
+      "url": "http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/XWZQVJWSHU_2966_2077.jpg"
+    }
+  ],
+  "item": [
+    {
+      "id": "7c3d0cbb-2483-4fcd-8374-630337f727b4",
+      "title": "Apartment 1",
+      "address": "340 Walt Whitman St.New York, NY 10024",
+      "price": "154,000",
+      "sellerName": "Осика Йомер",
+      "description": "The apartment is situated on the 6 th floor of the residential house in a quiet street.There is an open kitchen and living room with a dining place.There are two bedrooms with walk-in closets and balconies",
+      "url": ["http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/BBYASDPNPO_21662_XML-4175-208410.jpg","http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/ACBGVSFPJR_21662_XML-4175-208410.jpg","http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/NAAKNQUKCH_21662_XML-4175-208410.jpg","http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/YCEONFSMHS_21662_XML-4175-208410.jpg","http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/APAQWCQHNO_21662_XML-4175-208410.jpg","http://data.realestatecroatia.com/thumbnails/userimages/bonum/1/744341/XVNBSGSWFK_21662_XML-4175-208410.jpg"]
+    },
+    {
+      "id": "6b27bb03-51ba-430e-ad29-d87f2b41392a",
+      "title": "Apartment 2",
+      "address": "95 Buckingham Road Elmont, NY 11003",
+      "description": "The apartment is situated on the 6 th floor of the residential house in a quiet street.There is an open kitchen and living room with a dining place.There are two bedrooms with walk-in closets and balconies",
+      "sellerName": "Глібовицький Влад",
+      "price": "40,000",
+      "url": ["http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/PBMGJINUTN_15027_XML-4185-208590.jpg","http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/RINYVGCXDQ_15027_XML-4185-208590.jpg","http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/IFRJEOIPPU_15027_XML-4185-208590.jpg","http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/KJNXQWMAQU_15027_XML-4185-208590.jpg","http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/GNBPBIVQHY_15027_XML-4185-208590.jpg","http://data.realestatecroatia.com/thumbnails/userimages/trgoinvest/0/744340/CHGYKFRGLT_15027_XML-4185-208590.jpg"]
+    },
+    {
+      "id": "f3a926a5-1956-42a7-8b33-fb9859435c16",
+      "title": "Apartment 3",
+      "address": "7423 Cactus Dr.\nBronx, NY 10462",
+      "price": "165,000",
+      "description": "The apartment is situated on the 6 th floor of the residential house in a quiet street.There is an open kitchen and living room with a dining place.There are two bedrooms with walk-in closets and balconies",
+      "sellerName": "Цвєк Здоровега",
+      "url": ["http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/XWZQVJWSHU_2966_2077.jpg","http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/LSPCYKNPHN_2966_2077.jpg","http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/OWIFASUNSY_2966_2077.jpg","http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/CLARCGNIVJ_2966_2077.jpg","http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/BDGOOFBOMN_2966_2077.jpg","http://data.realestatecroatia.com/thumbnails/userimages/universum/3/744323/HMWEFXLXRT_2966_2077.jpg"]
+    }
+  ]
+}
